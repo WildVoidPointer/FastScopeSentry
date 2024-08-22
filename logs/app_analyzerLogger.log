@@ -1,0 +1,114 @@
+2024-06-08 02:38:59 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 02:45:26 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 02:45:43 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 02:45:43 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 02:46:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 02:46:48 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 02:47:13 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 21:59:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 21:59:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 21:59:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 21:59:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 21:59:49 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-08 21:59:53 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:01:23 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:03:28 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:06:13 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:06:47 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:07:03 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:10:03 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:10:12 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:11:50 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:12:36 - analyzerLogger - ERROR - TaskInfoInvalidError - Load user define task_info error. The task_info invalid !
+2024-06-08 22:12:36 - analyzerLogger - ERROR - TaskInfoInvalidError - Load user define task_info error. The task_info invalid !
+2024-06-08 22:12:36 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-08 22:13:53 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:17:22 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:47:47 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:50:04 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:52:38 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:54:45 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 22:58:51 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:24:57 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:26:11 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:27:21 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:30:36 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:43:56 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-08 23:53:59 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:45:06 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:46:22 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:48:06 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:48:55 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:50:06 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:52:08 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:53:21 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:56:27 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 00:58:57 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 01:00:03 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 16:59:53 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 17:00:32 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 17:01:54 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 17:05:34 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 19:36:01 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 19:36:13 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 19:36:14 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 19:36:14 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 19:36:16 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:17:37 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:21:00 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:28:56 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:17 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:17 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:17 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:23 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:23 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:23 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-09 23:30:23 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-10 01:07:31 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-10 01:10:07 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-10 01:10:37 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-10 01:10:37 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-10 01:13:11 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-15 00:27:57 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 00:28:00 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 00:28:00 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-15 01:14:51 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:14:54 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:14:54 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-15 01:17:19 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:17:22 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:17:22 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-15 01:18:42 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:18:45 - analyzerLogger - ERROR - TaskRequestFailedError - Failed to request the target URL !
+2024-06-15 01:18:45 - analyzerLogger - INFO - AnalyseFailedInfo - Website image parsing failed !
+2024-06-15 01:20:08 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 01:38:22 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:32:40 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:35:14 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:36:34 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:38:40 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:41:27 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:45:34 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:47:25 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:48:10 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 02:52:01 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 05:17:39 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 13:35:29 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 19:25:47 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:25:47 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:25:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:25:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:25:48 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:25:52 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 19:42:24 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:42:24 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:42:24 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:42:25 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:42:25 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 19:42:29 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !
+2024-06-16 20:37:14 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 20:37:15 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 20:37:15 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 20:37:15 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 20:37:15 - analyzerLogger - WARNING - UnidentifiedImageWarning - This image is not recognized !
+2024-06-16 20:37:19 - analyzerLogger - INFO - AnalyseSucceedInfo - Website image parsing succeed !

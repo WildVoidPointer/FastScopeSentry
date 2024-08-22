@@ -1,0 +1,23 @@
+2024-06-09 19:52:10 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-09 19:52:50 - scanningLogger - ERROR - ScanningRuntimeError - Scanning task execution error !
+2024-06-09 19:52:50 - scanningLogger - WARNING - ScanningFailedError - The scan failed. The result invalid !
+2024-06-09 19:53:11 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-09 19:58:22 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
+2024-06-10 02:38:51 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:44:30 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:45:21 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:47:10 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:48:34 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:51:11 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:52:57 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:53:46 - scanningLogger - CRITICAL -  DataCorruptedError - A serious error occurred and the data was corrupted !
+2024-06-10 02:56:04 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-10 03:01:12 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
+2024-06-10 03:03:44 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-10 03:03:50 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-10 03:08:38 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
+2024-06-10 03:12:18 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
+2024-06-16 13:56:45 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-16 14:01:51 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
+2024-06-17 21:23:46 - scanningLogger - WARNING - NotExistsTemplateWarning - No template is provided.Automatic scanning is performed by default !
+2024-06-17 21:35:02 - scanningLogger - INFO - ScanningComplete - The scan is successful. The results are valid !
